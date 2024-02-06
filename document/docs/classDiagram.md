@@ -1,21 +1,22 @@
 # Class Diagram
 ## All Package
-![all](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/822907e6-495b-4b64-93b3-840ef03257dc)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/8a20504b-3063-47ed-9266-4366fa3b843d)
 
 ## Package Animation
-![anima](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/3be252ed-e9bc-4ee4-b4fa-4cfebfdec889)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/6aa7cd41-af4f-4748-9e76-a7478d797654)
 
 ## Package Control
-![control](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/049f2100-e5a1-4b0b-9b0f-0268d08c7225)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/6555e8de-82f1-4587-8c03-cfe5a0a52c8e)
 
 ## Package Lgor
-![Lgor](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/72666c14-97e2-47a9-ac60-eee6970f5916)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/20bd4740-fd65-453c-a4c6-77227bd52723)
 
 ## Package Model
-![model](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/539194ef-e426-4451-84e5-a4c517d94082)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/bdbba29d-26ee-4540-9495-46ad5cbc0eb3)
 
 ## Package Source
-![source](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/83cca510-7204-4370-acb9-f1c8cbaebe9c)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/92e1ada1-f62c-4bce-ae61-1186eaa5fdbb)
 
 ## Package View
-![view](https://github.com/SupaschaiPh/LGor-Public/assets/119027412/185117bd-4e73-48d2-9cd9-ca9103c9993f)
+![image](https://github.com/SupaschaiPh/LGorDocs/assets/112678332/3ae37f63-661e-42d2-9f99-c9acf9218774)
+
