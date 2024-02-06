@@ -5,17 +5,10 @@ web document for LGor.
 
 
 ## Collaborator
-@EyeOnwara
-EyeOnwara
-
-@namfon00
-namfon00
-
-@palaployyy
-palaployyy
-
-@patwora
-patwora
-
-@Rata-un
-Rata-un
+* @SupaschaiPh
+* @EyeOnwara
+* @namfon00
+* @patwora
+* @namfon00
+* @Rata-un
+* @palaployyy
