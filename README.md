@@ -3,8 +3,6 @@
 
 web document for LGor.
 
-เหลือไฟล์แค่นี้อ่ะ😭
-
 
 ## Collaborator
 @EyeOnwara
