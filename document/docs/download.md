@@ -1,2 +1,2 @@
 # Download 
-[Download](https://github.com/SupaschaiPh/LGor-Public/releases){ .btn .btn-default }
+[Download](https://github.com/SupaschaiPh/LGorDocs/releases){ .btn .btn-default }
