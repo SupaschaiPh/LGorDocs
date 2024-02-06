@@ -1,0 +1,37 @@
+theme:
+  name: terminal
+  features:
+    - footer.prev_next
+    - revision.date
+    - revision.history
+repo_url: https://github.com/SupaschaiPh/LGor-Public/
+site_url: https://supaschaiph.github.io/LGor-Public/
+edit_uri_template: https://github.com/SupaschaiPh/LGor-Public/edit/main/document/docs/{path}
+nav:
+  - Home: "index.md"
+  - Usage: "วิธีใช้.md"
+  - Download: "download.md"
+  - Credit: "credit.md"
+  - About:
+    - ClassDiagram: "classDiagram.md"
+    
+repo_name: LGor-Public
+site_name: Lกอ
+plugins:
+  - search
+  - git-revision-date
+  - termynal
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
